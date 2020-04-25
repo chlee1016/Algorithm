@@ -4,8 +4,15 @@
 # n=17일때 까지 피보나치 수를 써보면 다음과 같다.
 # 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597
 # n이 주어졌을 때, n번째 피보나치 수를 구하는 프로그램을 작성하시오.
-n = int(input())
-F = [0, 1]
-for i in range(n-1):
-    F.append(F[i]+F[i+1])
-print(F[n])
+N = int(input())
+
+
+def fibonacci(N):
+    if N == 0:
+        return 0
+    elif N == 1:
+        return 1
+    return fibonacci(N-1) + fibonacci(N-2)
+
+
+print(fibonacci(N))
