@@ -33,10 +33,11 @@ def bfs():
                     que.append([ny, nx])
 
     # 모든 토마토가 익을 수는 없는 상태이면 -1
-    for a in graph:
-        if 0 in a:
+    for vector in graph:
+        if 0 in vector:
             return -1
     return days  # 모든 토마토가 익을 때까지의 최소 날짜 반환
+
 
 print(bfs())
 
