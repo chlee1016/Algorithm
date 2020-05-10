@@ -6,6 +6,7 @@ def solution(skill, skill_trees):
 
         # 한 문자씩 검사
         for s in skill_tree:
+            # skill_tree의 문자들을 하나씩 꺼내어서,
             if s in skill and s != skill_list.pop(0):
                 break
 
@@ -13,6 +14,8 @@ def solution(skill, skill_trees):
             # if s in skill and s != skill_list[0]:
             #     skill_list.pop(0)
             #     break
+
+        # break문에 안걸리면 answer 증가
         else:
             answer += 1
 
