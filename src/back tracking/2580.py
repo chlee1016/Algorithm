@@ -6,7 +6,7 @@
 # 6. 해당 부분을 0으로 다시 초기화 (5.의 재귀함수 내부에서 정답이 없을 경우를 고려)
 # 7. 마지막 0까지 모두 넣어봤다면, 출력한다.
 # Flag를 별도로 두고 구현해봄
-# *arg를 사용해봄
+# *arg를 사용해봄 (asterisk)
 #
 
 board = [list(map(int, input().split())) for _ in range(9)]
@@ -42,7 +42,7 @@ def isPromising(i, j):
 def sudoku(x):
     # x는 현재 찾고 있는 blank의 index를 의미함.
     # [(0,0), (1,4), (1,7)] 으로 blank가 3개이면 차례로 x = 0, 1, 2 ..
-    
+
     global flag
 
     if flag:  # 이미 답이 출력 된 경우
