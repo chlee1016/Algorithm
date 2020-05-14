@@ -1,3 +1,5 @@
+# for문으로 일일이 부감독관의 수를 대입해 보다가 시간초과가 나서 틀렸었다.
+# 총감독관 혼자서 감독이 가능한 경우 예외처리를 안해주어서 틀렸었다.
 N = int(input())
 A = list(map(int, input().split()))
 B, C = map(int, input().split())
