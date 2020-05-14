@@ -35,7 +35,7 @@
       <recent name="C:\Users\chlee\PycharmProjects\Algorithm\src\if" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.14501">
+  <component name="RunManager" selected="Python.14499">
     <configuration name="13458" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -49,6 +49,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/samsung/13458.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14499" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/samsung" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/samsung/14499.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,48 +99,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14888" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/back tracking" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/back tracking/14888.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="14889" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/back tracking" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/back tracking/14889.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="14891" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,13 +120,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="17837" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/samsung" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/samsung/17837.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.14499" />
+        <item itemvalue="Python.17837" />
         <item itemvalue="Python.14501" />
         <item itemvalue="Python.14891" />
         <item itemvalue="Python.13458" />
-        <item itemvalue="Python.14889" />
-        <item itemvalue="Python.14888" />
       </list>
     </recent_temporary>
   </component>
@@ -173,38 +173,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="916" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587938185575" />
-    <state width="745" height="127" key="GridCell.Tab.0.bottom" timestamp="1589442186520">
+    <state width="745" height="127" key="GridCell.Tab.0.bottom" timestamp="1589476579739">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="127" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589442186520" />
-    <state width="745" height="127" key="GridCell.Tab.0.center" timestamp="1589442186519">
+    <state width="745" height="127" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589476579739" />
+    <state width="745" height="127" key="GridCell.Tab.0.center" timestamp="1589476579739">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="127" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589442186519" />
-    <state width="745" height="127" key="GridCell.Tab.0.left" timestamp="1589442186519">
+    <state width="745" height="127" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589476579739" />
+    <state width="745" height="127" key="GridCell.Tab.0.left" timestamp="1589476579739">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="127" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589442186519" />
-    <state width="745" height="127" key="GridCell.Tab.0.right" timestamp="1589442186519">
+    <state width="745" height="127" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589476579739" />
+    <state width="745" height="127" key="GridCell.Tab.0.right" timestamp="1589476579739">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="127" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589442186519" />
-    <state width="1515" height="260" key="GridCell.Tab.1.bottom" timestamp="1589280726816">
+    <state width="745" height="127" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589476579739" />
+    <state width="1515" height="259" key="GridCell.Tab.1.bottom" timestamp="1589451097966">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589280726816" />
-    <state width="1515" height="260" key="GridCell.Tab.1.center" timestamp="1589280726815">
+    <state width="1515" height="259" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589451097966" />
+    <state width="1515" height="259" key="GridCell.Tab.1.center" timestamp="1589451097966">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589280726815" />
-    <state width="1515" height="260" key="GridCell.Tab.1.left" timestamp="1589280726815">
+    <state width="1515" height="259" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589451097966" />
+    <state width="1515" height="259" key="GridCell.Tab.1.left" timestamp="1589451097965">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589280726815" />
-    <state width="1515" height="260" key="GridCell.Tab.1.right" timestamp="1589280726815">
+    <state width="1515" height="259" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589451097965" />
+    <state width="1515" height="259" key="GridCell.Tab.1.right" timestamp="1589451097966">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589280726815" />
+    <state width="1515" height="259" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589451097966" />
     <state x="899" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1589007879429">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
