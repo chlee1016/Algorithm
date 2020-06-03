@@ -5,6 +5,8 @@
 # 5. 행 또는 열의 크기가 100을 넘어가는 경우, 처음 100개만 취하기
 # 런타임 에러 : if r < len(A) and c < len(A[0]) 이 조건을 안적어주어서
 # transpose 하는 방법 list(map(list, zip(*a)))
+# 리스트 기준 2개로 정렬하기
+
 import copy
 
 
