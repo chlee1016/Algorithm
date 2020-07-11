@@ -14,6 +14,11 @@ else:
     print(A//(C-B)+1)
 
 
+
+
+
+
+# B와 C 예외처리 생각 못함
 # while문으로 접근했을 때, 시간초과
 # if B >= C:
 #     print(-1)
