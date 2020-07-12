@@ -1,4 +1,3 @@
-# 이 벽을 넘지 못하면 발전은 없다.
 N = int(input())
 
 board = [[' '] * N for _ in range(N)]

@@ -10,3 +10,8 @@ for _ in range(T):
         num_XX = N // H + 1
 
     print(num_YY + num_XX)
+
+
+# YY 나머지
+# XX 몫 + 1
+# YY * 100 + (XX+1)
