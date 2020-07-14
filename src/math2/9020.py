@@ -10,7 +10,7 @@ def IsPrime(ele):
                 return False
     return True
 
-
+# 효율성 고려할 필요
 for _ in range(T):
     n = int(input())
     num1, num2 = None, None

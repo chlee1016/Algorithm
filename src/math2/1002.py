@@ -9,13 +9,11 @@ for _ in range(T):
         dist = ((x1-x2)**2 + (y1-y2)**2)**0.5
         # 두 원이 만나지 않는 경우
         if dist > r1 + r2 or\
-            r1 > dist + r2 or\
-            r2 > dist + r1:
+            max(r1, r2) > dist + min(r1, r2):
             print(0)
         # 두 원이 한점에서 만나는 경우 (외접하는 경우, 내접하는 경우)
         elif r1 + r2 == dist or\
-            dist + r1 == r2 or\
-            dist + r2 == r1:
+            dist + min(r1, r2) == max(r1, r2):
             print(1)
         else:
             print(2)
