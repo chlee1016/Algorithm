@@ -16,15 +16,15 @@ def calc_score(start_team):
 
     for a in start_team:
         for b in start_team:
-            start_score += S[a][b] + S[b][a]
+            start_score += S[a][b]
 
     for c in link_team:
         for d in link_team:
-            link_score += S[c][d] + S[d][c]
+            link_score += S[c][d]
 
     # for a, b in combinations(start_team, 2):
     #     start_score += S[a][b] + S[b][a]
-
+    #
     # for c, d in combinations(link_team, 2):
     #     link_score += S[c][d] + S[d][c]
 
